@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": "attack-on-titan-1",
+    "titre": "Attack on Titan - Épisode 1",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Attack_on_Titan_season_1_hero_Art.jpg/220px-Attack_on_Titan_season_1_hero_Art.jpg",
+    "lecteur": "https://uqload.io/embed-xxxxx.html"
+  },
+  {
+    "id": "demon-slayer-1",
+    "titre": "Demon Slayer - Épisode 1",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Demon_Slayer_Season_1_Poster.jpg/220px-Demon_Slayer_Season_1_Poster.jpg",
+    "lecteur": "https://uqload.io/embed-yyyyy.html"
+  },
+  {
+    "id": "one-piece-1",
+    "titre": "One Piece - Épisode 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/One_Piece_Logo.svg/400px-One_Piece_Logo.svg.png",
+    "lecteur": "https://uqload.io/embed-zzzzz.html"
+  },
+  {
+    "id": "naruto-1",
+    "titre": "Naruto - Épisode 1",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Naruto_Next_Generations_logo.png/600px-Naruto_Next_Generations_logo.png",
+    "lecteur": "https://uqload.io/embed-aaaaa.html"
+  }
+]
